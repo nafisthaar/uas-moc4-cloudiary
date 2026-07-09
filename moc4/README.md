@@ -1,11 +1,12 @@
 # Cloudiary - Local NoSQL Mood Journal App
 
-Proyek ini merupakan tugas akhir / UAS untuk mata kuliah **Mobile Computing (Kelas MoC4)**. **Cloudiary** adalah aplikasi mood jurnal lokal berbasis Android yang dibangun menggunakan Flutter dan memanfaatkan penyimpanan NoSQL lokal (Hive) demi performa yang cepat dan reaktif tanpa ketergantungan pada server.
+Proyek ini merupakan tugas akhir / UAS untuk mata kuliah **Mobile Computing (MoC4)**. **Cloudiary** adalah aplikasi mood jurnal lokal berbasis Android yang dibangun menggunakan Flutter dan memanfaatkan penyimpanan NoSQL lokal (Hive) demi performa yang cepat dan reaktif tanpa ketergantungan pada server.
 
 ---
 
 ## Pengembang
 * **Nama:** Nafistha Awalya Rahma
+* **NIM:** 24110300046
 * **Mata Kuliah:** Mobile Computing (MoC4) 
 
 ---
