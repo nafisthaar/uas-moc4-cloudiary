@@ -15,7 +15,7 @@ Proyek ini merupakan tugas akhir / UAS untuk mata kuliah **Mobile Computing (MoC
 Sesuai dengan instruksi pengumpulan, seluruh berkas proyek dibungkus di dalam folder `moc4` dengan pembagian struktur sebagai berikut:
 * **`apk/`**: Berisi file mentah aplikasi siap instal (`cloudiary.apk`) untuk pengujian di perangkat Android.
 * **`document/`**: Berisi laporan dokumentasi teknis (*Technical Documentation*) dalam format PDF.
-* **`slide/`**: Berisi file presentasi pitch deck untuk kebutuhan pengujian presentasi.
+* **`slide/`**: Berisi file presentasi pitch deck.
 * **`lib/`**: Kode sumber (*source code*) utama pengembangan aplikasi Flutter.
 * **`pubspec.yaml`**: Berkas konfigurasi dependensi pustaka dan manajemen aset aplikasi.
 
